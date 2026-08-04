@@ -32,3 +32,5 @@ data/uyeler.csv
 *.njsproj
 *.sln
 *.sw?
+
+scripts/_ocr_*
