@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-04T14:30:01.317Z",
+  "updatedAt": "2026-08-04T16:49:20.239Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -695,13 +695,13 @@
       ]
     },
     {
-      "idHash": "e29f3a1a159c7c4f1923f3750ada4421089f6bfc8ec4dca76bd0d88d87f5ebf2",
-      "tc": "",
+      "idHash": "09a4545a7316b0782747da8aac1a3d68e6b0e5b0e972430f42bc00fb1b96f93c",
+      "tc": "25999814568",
       "displayName": "Mutlu Ç.",
       "debtAmount": 2000,
       "debtMonths": [],
       "lastPayment": null,
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "",
       "yearHistory": [
         {
           "year": 2026,
