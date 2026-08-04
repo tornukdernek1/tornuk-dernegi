@@ -16,8 +16,20 @@ function readCount(data: CounterResponse): number {
 
 export async function getInstallCount(): Promise<number> {
   const res = await fetch(GET_URL, { cache: 'no-store' })
-  if (!res.ok) throw new Error('Sayaç okunamadı')
-  return readCount((await res.json()) as CounterResponse)
+  if (res.status === 404) return 0
+  if (!res.ok) {
+    // Abacus yeni anahtarda "Key not found" dönebilir
+    try {
+      const data = (await res.json()) as { error?: string }
+      if (data.error) return 0
+    } catch {
+      // ignore
+    }
+    throw new Error('Sayaç okunamadı')
+  }
+  const data = (await res.json()) as CounterResponse & { error?: string }
+  if (data.error) return 0
+  return readCount(data)
 }
 
 export async function trackAppInstall(): Promise<number | null> {
