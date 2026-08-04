@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-04T16:50:53.604Z",
+  "updatedAt": "2026-08-04T18:19:12.289Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -806,29 +806,6 @@
           "status": "borclu",
           "debtAmount": 1000,
           "note": ""
-        }
-      ]
-    },
-    {
-      "idHash": "d0e48d194afc4965b38f7844dd80679306557ef4356e15f71e61714e3d5d206c",
-      "tc": "26552796124",
-      "displayName": "Ersin Ç.",
-      "debtAmount": 0,
-      "debtMonths": [],
-      "lastPayment": "2026-01-01",
-      "notes": "",
-      "yearHistory": [
-        {
-          "year": 2026,
-          "status": "odendi",
-          "debtAmount": 0,
-          "note": "Ödenen: 1000 ₺"
-        },
-        {
-          "year": 2025,
-          "status": "odendi",
-          "debtAmount": 0,
-          "note": "Ödenen: 2000 ₺"
         }
       ]
     },
