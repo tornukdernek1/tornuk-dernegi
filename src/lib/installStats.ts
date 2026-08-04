@@ -1,7 +1,7 @@
-const COUNTED_KEY = 'tornuk-install-counted'
-/** Abacus — tarayıcıdan CORS ile çalışır (counterapi.dev çalışmıyor). */
-const HIT_URL = 'https://abacus.jasoncameron.dev/hit/tornuk-dernegi/app-installs'
-const GET_URL = 'https://abacus.jasoncameron.dev/get/tornuk-dernegi/app-installs'
+const COUNTED_KEY = 'tornuk-install-counted-v2'
+/** Abacus — tarayıcıdan CORS ile çalışır. Namespace yeni hesap için ayrı (eski sayaç 7’yi taşımasın). */
+const HIT_URL = 'https://abacus.jasoncameron.dev/hit/tornukdernek1/app-installs'
+const GET_URL = 'https://abacus.jasoncameron.dev/get/tornukdernek1/app-installs'
 
 type CounterResponse = {
   value?: number | string
