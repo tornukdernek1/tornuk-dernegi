@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Deploy öncesi: gh-pages'teki canlı JSON'u dist + public'e çeker.
  * Böylece site deploy'u admin verilerini ezmez.
  *
@@ -8,7 +8,7 @@ import { execFileSync } from 'node:child_process'
 import { writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
 
-const OWNER = 'mustafatemel1986-ops'
+const OWNER = 'tornukdernek1'
 const REPO = 'tornuk-dernegi'
 const FILES = [
   'uyeler.json',

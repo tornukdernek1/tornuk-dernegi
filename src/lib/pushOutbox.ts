@@ -2,8 +2,10 @@ import { getBridgeGithubToken } from './bridgeUnlock'
 import { toBase64Utf8 } from './download'
 import type { NotifyKind } from './ntfyPush'
 
-const OWNER = 'mustafatemel1986-ops'
-const REPO = 'tornuk-dernegi'
+import { GITHUB_OWNER, GITHUB_REPO, SITE_BASE_URL } from './siteConfig'
+
+const OWNER = GITHUB_OWNER
+const REPO = GITHUB_REPO
 const LIVE_PATH = 'data/push-outbox.json'
 const MAIN_PATH = 'public/data/push-outbox.json'
 
@@ -79,7 +81,7 @@ export async function enqueueClosedAppPush(item: {
     kind: item.kind,
     title: item.title,
     body: item.summary || item.title,
-    url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}&${key}=${encodeURIComponent(id)}`,
+    url: `${SITE_BASE_URL}/?tab=${tab}&r=${Date.now()}&${key}=${encodeURIComponent(id)}`,
     createdAt: new Date().toISOString(),
   }
 

@@ -228,7 +228,7 @@ export async function checkDuyurularInPage(options?: {
   notify?: boolean
 }): Promise<{ latestId: string | null; isNew: boolean; item: DuyuruLite | null }> {
   const res = await fetch(
-    `https://raw.githubusercontent.com/mustafatemel1986-ops/tornuk-dernegi/gh-pages/data/duyurular.json?t=${Date.now()}`,
+    `https://raw.githubusercontent.com/tornukdernek1/tornuk-dernegi/gh-pages/data/duyurular.json?t=${Date.now()}`,
     { cache: 'no-store' },
   )
   if (!res.ok) return { latestId: null, isNew: false, item: null }
@@ -260,7 +260,7 @@ export async function checkEtkinliklerInPage(options?: {
   notify?: boolean
 }): Promise<{ latestId: string | null; isNew: boolean; item: EtkinlikLite | null }> {
   const res = await fetch(
-    `https://raw.githubusercontent.com/mustafatemel1986-ops/tornuk-dernegi/gh-pages/data/etkinlikler.json?t=${Date.now()}`,
+    `https://raw.githubusercontent.com/tornukdernek1/tornuk-dernegi/gh-pages/data/etkinlikler.json?t=${Date.now()}`,
     { cache: 'no-store' },
   )
   if (!res.ok) return { latestId: null, isNew: false, item: null }

@@ -11,7 +11,7 @@ function put(path, branch) {
       'gh',
       [
         'api',
-        `repos/mustafatemel1986-ops/tornuk-dernegi/contents/${path}?ref=${branch}`,
+        `repos/tornukdernek1/tornuk-dernegi/contents/${path}?ref=${branch}`,
         '--jq',
         '.sha',
       ],
@@ -24,7 +24,7 @@ function put(path, branch) {
     'api',
     '--method',
     'PUT',
-    `repos/mustafatemel1986-ops/tornuk-dernegi/contents/${path}`,
+    `repos/tornukdernek1/tornuk-dernegi/contents/${path}`,
     '-f',
     'message=chore: refresh publish bridge',
     '-f',

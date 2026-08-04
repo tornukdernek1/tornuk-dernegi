@@ -8,6 +8,7 @@ import {
   setLiveEvents,
   setLiveMembers,
 } from '../lib/liveData'
+import { GITHUB_CONTENTS_DATA } from '../lib/siteConfig'
 import type { AnnouncementsData, AssociationData, EventsData, MembershipData } from '../types'
 import './admin.css'
 import { AdminLogin } from './AdminLogin'
@@ -85,7 +86,7 @@ export function AdminApp() {
         async function loadFile<T>(file: string): Promise<T> {
           try {
             const res = await fetch(
-              `https://api.github.com/repos/mustafatemel1986-ops/tornuk-dernegi/contents/data/${file}?ref=gh-pages&t=${Date.now()}`,
+              `${GITHUB_CONTENTS_DATA}/${file}?ref=gh-pages&t=${Date.now()}`,
               {
                 cache: 'no-store',
                 mode: 'cors',

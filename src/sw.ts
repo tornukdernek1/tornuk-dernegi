@@ -86,7 +86,7 @@ async function notifyClientsPlaySound() {
 async function checkDuyurular() {
   const base = self.registration.scope
   const res = await fetch(
-    `https://raw.githubusercontent.com/mustafatemel1986-ops/tornuk-dernegi/gh-pages/data/duyurular.json?t=${Date.now()}`,
+    `https://raw.githubusercontent.com/tornukdernek1/tornuk-dernegi/gh-pages/data/duyurular.json?t=${Date.now()}`,
     { cache: 'no-store' },
   )
   if (!res.ok) return
@@ -124,7 +124,7 @@ async function checkDuyurular() {
 async function checkEtkinlikler() {
   const base = self.registration.scope
   const res = await fetch(
-    `https://raw.githubusercontent.com/mustafatemel1986-ops/tornuk-dernegi/gh-pages/data/etkinlikler.json?t=${Date.now()}`,
+    `https://raw.githubusercontent.com/tornukdernek1/tornuk-dernegi/gh-pages/data/etkinlikler.json?t=${Date.now()}`,
     { cache: 'no-store' },
   )
   if (!res.ok) return

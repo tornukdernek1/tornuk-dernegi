@@ -76,7 +76,7 @@ const payload = JSON.stringify({
   body: bodyText,
   kind: isEtkinlik ? 'etkinlik' : 'duyuru',
   id: latest.id,
-  url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}&${
+  url: `https://tornukdernek1.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}&${
     isEtkinlik ? 'etkinlik' : 'duyuru'
   }=${encodeURIComponent(latest.id)}`,
 })

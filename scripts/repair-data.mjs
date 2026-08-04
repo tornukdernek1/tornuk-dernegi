@@ -2,7 +2,7 @@ import { execFileSync } from 'node:child_process'
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
 import { join } from 'node:path'
 
-const OWNER = 'mustafatemel1986-ops'
+const OWNER = 'tornukdernek1'
 const REPO = 'tornuk-dernegi'
 
 const MUTABLE = ['uyeler.json', 'duyurular.json', 'etkinlikler.json']

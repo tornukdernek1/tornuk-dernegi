@@ -2,7 +2,7 @@
 
 Üyelerin T.C. kimlik numarası ile aidat borçlarını sorgulayabileceği, **GitHub Pages** üzerinden ücretsiz yayınlanabilen bir web uygulaması.
 
-Adres örneği: `https://KULLANICI_ADINIZ.github.io/tornuk-dernegi/`
+Adres örneği: `https://tornukdernek1.github.io/tornuk-dernegi/`
 
 ## Özellikler
 
@@ -35,7 +35,7 @@ Tarayıcıda `http://localhost:5173` açılır.
 
 ## Yönetim paneli (admin)
 
-Adres: `https://KULLANICI.github.io/tornuk-dernegi/#admin`  
+Adres: `https://tornukdernek1.github.io/tornuk-dernegi/#admin`  
 Yerelde: `http://localhost:5173/#admin`  
 
 Uygulama içinden: **Menü → Özet → Yönetim paneli**

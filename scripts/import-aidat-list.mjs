@@ -352,7 +352,7 @@ function toBase64Utf8(text) {
 }
 
 async function putFile(token, branch, path, content, message) {
-  const base = `https://api.github.com/repos/mustafatemel1986-ops/tornuk-dernegi/contents/${path}`
+  const base = `https://api.github.com/repos/tornukdernek1/tornuk-dernegi/contents/${path}`
   let sha
   const getRes = await fetch(`${base}?ref=${encodeURIComponent(branch)}&t=${Date.now()}`, {
     headers: {

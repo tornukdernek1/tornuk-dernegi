@@ -1,8 +1,9 @@
 import { toBase64Utf8 } from './download'
 import type { AdminDataFile } from './githubSave'
+import { GITHUB_OWNER, GITHUB_REPO } from './siteConfig'
 
-const OWNER = 'mustafatemel1986-ops'
-const REPO = 'tornuk-dernegi'
+const OWNER = GITHUB_OWNER
+const REPO = GITHUB_REPO
 
 function headers(token: string) {
   return {

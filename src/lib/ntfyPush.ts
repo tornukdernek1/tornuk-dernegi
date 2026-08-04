@@ -2,6 +2,7 @@ import { enqueueClosedAppPush } from './pushOutbox'
 import { sendClosedAppPushNow } from './sendWebPushBrowser'
 import { getAdminSessionPin } from './adminAuth'
 import { PUBLISH_API_URL } from './publishConfig'
+import { SITE_BASE_URL } from './siteConfig'
 
 export const NTFY_TOPIC = 'tornuk_dernegi_gumushane_duyuru'
 
@@ -18,7 +19,7 @@ export function getNtfyDeepLink() {
 function siteClickUrl(kind: NotifyKind, id?: string) {
   const tab = kind === 'etkinlik' ? 'etkinlikler' : 'duyurular'
   const key = kind === 'etkinlik' ? 'etkinlik' : 'duyuru'
-  return `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}${
+  return `${SITE_BASE_URL}/?tab=${tab}&r=${Date.now()}${
     id ? `&${key}=${encodeURIComponent(id)}` : ''
   }`
 }

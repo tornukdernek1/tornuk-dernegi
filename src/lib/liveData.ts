@@ -1,16 +1,15 @@
 import type { AnnouncementsData, AssociationData, EventsData, MembershipData } from '../types'
 import { PUBLISH_API_URL } from './publishConfig'
+import { GITHUB_CONTENTS_DATA, LIVE_DATA_RAW_BASE } from './siteConfig'
 
 const MEMBERS_KEY = 'tornuk-live-members'
 const DUYURU_KEY = 'tornuk-live-duyurular'
 const ETKINLIK_KEY = 'tornuk-live-etkinlikler'
 export const DATA_UPDATED_EVENT = 'tornuk-data-updated'
 
-export const LIVE_DATA_BASE =
-  'https://raw.githubusercontent.com/mustafatemel1986-ops/tornuk-dernegi/gh-pages/data'
+export const LIVE_DATA_BASE = LIVE_DATA_RAW_BASE
 
-const GITHUB_CONTENTS =
-  'https://api.github.com/repos/mustafatemel1986-ops/tornuk-dernegi/contents/data'
+const GITHUB_CONTENTS = GITHUB_CONTENTS_DATA
 
 function read<T>(key: string): T | null {
   try {

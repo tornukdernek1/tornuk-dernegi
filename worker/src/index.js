@@ -8,7 +8,7 @@
 import { sendOneWebPush } from './webPushSend.js'
 
 const SALT = 'tornuk-admin-v1'
-const OWNER = 'mustafatemel1986-ops'
+const OWNER = 'tornukdernek1'
 const REPO = 'tornuk-dernegi'
 const MAIN_BRANCH = 'main'
 const LIVE_BRANCH = 'gh-pages'
@@ -314,7 +314,7 @@ async function sendNtfy(kind, item) {
     (typeof item.summary === 'string' && item.summary) ||
     (typeof item.description === 'string' && item.description) ||
     item.title
-  const click = `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}${
+  const click = `https://tornukdernek1.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}${
     item.id ? `&${key}=${encodeURIComponent(item.id)}` : ''
   }`
   const res = await fetch('https://ntfy.sh', {
@@ -386,7 +386,7 @@ async function handleNotify(request, env, origin) {
           body: summary,
           kind,
           id,
-          url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}${
+          url: `https://tornukdernek1.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}${
             id ? `&${key}=${encodeURIComponent(id)}` : ''
           }`,
         })
@@ -661,7 +661,7 @@ async function runPushPoll(env) {
             body: latest.summary || latest.title,
             kind: 'duyuru',
             id: latest.id,
-            url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=duyurular&r=${Date.now()}&duyuru=${encodeURIComponent(latest.id)}`,
+            url: `https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=${Date.now()}&duyuru=${encodeURIComponent(latest.id)}`,
           })
         }
         nextState.lastDuyuruId = latest.id
@@ -672,7 +672,7 @@ async function runPushPoll(env) {
           body: latest.summary || latest.title,
           kind: 'duyuru',
           id: latest.id,
-          url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=duyurular&r=${Date.now()}&duyuru=${encodeURIComponent(latest.id)}`,
+          url: `https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=${Date.now()}&duyuru=${encodeURIComponent(latest.id)}`,
         })
         // Başarısızsa state ilerletme — sonraki cron tekrar dener
         if (sent.okCount > 0 || sent.attempted === 0) {
@@ -706,7 +706,7 @@ async function runPushPoll(env) {
             body,
             kind: 'etkinlik',
             id: latest.id,
-            url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=etkinlikler&r=${Date.now()}&etkinlik=${encodeURIComponent(latest.id)}`,
+            url: `https://tornukdernek1.github.io/tornuk-dernegi/?tab=etkinlikler&r=${Date.now()}&etkinlik=${encodeURIComponent(latest.id)}`,
           })
         }
         nextState.lastEtkinlikId = latest.id
@@ -721,7 +721,7 @@ async function runPushPoll(env) {
           body,
           kind: 'etkinlik',
           id: latest.id,
-          url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=etkinlikler&r=${Date.now()}&etkinlik=${encodeURIComponent(latest.id)}`,
+          url: `https://tornukdernek1.github.io/tornuk-dernegi/?tab=etkinlikler&r=${Date.now()}&etkinlik=${encodeURIComponent(latest.id)}`,
         })
         if (sent.okCount > 0 || sent.attempted === 0) {
           nextState.lastEtkinlikId = latest.id

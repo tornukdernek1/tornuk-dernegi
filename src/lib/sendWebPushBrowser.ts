@@ -1,6 +1,7 @@
 import { buildPushHTTPRequest } from '@pushforge/builder'
 import { getVapidPrivateJwk } from './vapidUnlock'
 import type { NotifyKind } from './ntfyPush'
+import { LIVE_DATA_RAW_BASE, SITE_BASE_URL } from './siteConfig'
 
 type PushSub = {
   endpoint: string
@@ -9,7 +10,7 @@ type PushSub = {
 
 async function loadSubscriptions(): Promise<PushSub[]> {
   const urls = [
-    `https://raw.githubusercontent.com/mustafatemel1986-ops/tornuk-dernegi/gh-pages/data/push-subscriptions.json?t=${Date.now()}`,
+    `${LIVE_DATA_RAW_BASE}/push-subscriptions.json?t=${Date.now()}`,
     `${import.meta.env.BASE_URL}data/push-subscriptions.json?t=${Date.now()}`,
   ]
   for (const url of urls) {
@@ -46,7 +47,7 @@ export async function sendClosedAppPushNow(item: {
     body: item.summary || item.title,
     kind: item.kind,
     id,
-    url: `https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=${tab}&r=${Date.now()}&${key}=${encodeURIComponent(id)}`,
+    url: `${SITE_BASE_URL}/?tab=${tab}&r=${Date.now()}&${key}=${encodeURIComponent(id)}`,
   }
 
   let ok = 0
