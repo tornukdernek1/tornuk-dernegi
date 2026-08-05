@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-05T20:00:11.100Z",
+  "updatedAt": "2026-08-05T20:36:22.845Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2328,13 +2328,13 @@
       ]
     },
     {
-      "idHash": "3611c50e3b1a7b2dd9bfc18e6b9c3ad01c0f2d05ebd0097c0d986ce43ce947a6",
-      "tc": "",
+      "idHash": "940713a4100079bce9194ea196ee00575844138777aec7faf7628a20123bb696",
+      "tc": "24043879782",
       "displayName": "Erdoğan Şahin",
       "debtAmount": 2000,
       "debtMonths": [],
       "lastPayment": null,
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "",
       "yearHistory": [
         {
           "year": 2026,
