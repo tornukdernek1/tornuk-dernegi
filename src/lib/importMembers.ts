@@ -1,6 +1,5 @@
 import { normalizeHistory, totalDebtFromHistory } from './aidatHistory'
 import { hashTc } from './hash'
-import { maskDisplayName } from './maskName'
 import { isValidTc, normalizeTc } from './tc'
 import type { MemberRecord, YearAidat, YearAidatStatus } from '../types'
 
@@ -229,7 +228,9 @@ export async function parseMembersFile(
     members.push({
       idHash,
       tc,
-      displayName: maskDisplayName(row.ad_soyad),
+      displayName: String(row.ad_soyad || '')
+        .trim()
+        .replace(/\s+/g, ' '),
       debtAmount: totalDebtFromHistory(yearHistory) || debtAmount,
       debtMonths,
       lastPayment: excelDateToIso(rawSonOdeme, (v) => XLSX.SSF.parse_date_code(v)),

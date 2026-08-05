@@ -6,7 +6,6 @@ import {
 } from '../lib/aidatHistory'
 import { formatMoney } from '../lib/format'
 import { hashTc } from '../lib/hash'
-import { maskDisplayName } from '../lib/maskName'
 import { isValidTc, normalizeTc } from '../lib/tc'
 import type { MemberRecord, MembershipData, YearAidat } from '../types'
 import { ImportMembers } from './ImportMembers'
@@ -201,7 +200,7 @@ export function AidatAdmin({
     }
 
     const year = currentYear()
-    const displayName = maskDisplayName(newName)
+    const displayName = newName.trim().replace(/\s+/g, ' ')
     const next: MembershipData = {
       ...data,
       updatedAt: nowIso(),

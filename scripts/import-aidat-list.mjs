@@ -3,7 +3,7 @@
  * Kullanım: node scripts/import-aidat-list.mjs
  */
 import { createHash } from 'node:crypto'
-import { writeFileSync } from 'node:fs'
+import { readFileSync, writeFileSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
@@ -223,13 +223,10 @@ function isValidTc(raw) {
   return d.slice(0, 10).reduce((a, b) => a + b, 0) % 10 === d[10]
 }
 
-function maskDisplayName(fullName) {
-  const parts = fullName.trim().split(/\s+/).filter(Boolean)
-  if (parts.length === 0) return 'Üye'
-  if (parts.length === 1) return parts[0]
-  const last = parts[parts.length - 1]
-  const first = parts.slice(0, -1).join(' ')
-  return `${first} ${last[0]}.`
+function normalizePersonName(fullName) {
+  return String(fullName || '')
+    .trim()
+    .replace(/\s+/g, ' ')
 }
 
 function yearStatus(paidRaw) {
@@ -334,7 +331,7 @@ function parseRows() {
     members.push({
       idHash,
       tc,
-      displayName: maskDisplayName(name),
+      displayName: name,
       debtAmount,
       debtMonths: [],
       lastPayment: s2025.status === 'odendi' || s2026.status === 'odendi' ? '2026-01-01' : null,
@@ -389,31 +386,58 @@ async function putFile(token, branch, path, content, message) {
 }
 
 const { members, warnings } = parseRows()
-const payload = {
-  associationName: 'Törnük Derneği',
-  updatedAt: new Date().toISOString(),
-  monthlyFee: YEARLY_FEE,
-  currency: 'TRY',
-  members: members.map(({ _fullName, ...m }) => m),
-}
+const nameByHash = new Map(members.map((m) => [m.idHash, m.displayName]))
+const freshByHash = new Map(members.map((m) => [m.idHash, m]))
 
 const outPath = join(ROOT, 'public', 'data', 'uyeler.json')
+let payload
+try {
+  const existing = JSON.parse(readFileSync(outPath, 'utf8'))
+  payload = {
+    ...existing,
+    associationName: existing.associationName || 'Törnük Derneği',
+    updatedAt: new Date().toISOString(),
+    monthlyFee: YEARLY_FEE,
+    currency: existing.currency || 'TRY',
+    members: existing.members.map((m) => {
+      const fresh = freshByHash.get(m.idHash)
+      const fullName = nameByHash.get(m.idHash)
+      if (!fresh && !fullName) return m
+      return {
+        ...m,
+        displayName: fullName || m.displayName,
+        // TC yoksa listedeki TC’yi al; adminde girilmiş TC’yi koru
+        tc: m.tc || fresh?.tc || '',
+      }
+    }),
+  }
+} catch {
+  payload = {
+    associationName: 'Törnük Derneği',
+    updatedAt: new Date().toISOString(),
+    monthlyFee: YEARLY_FEE,
+    currency: 'TRY',
+    members: members.map(({ _fullName, ...m }) => m),
+  }
+}
+
 const json = `${JSON.stringify(payload, null, 2)}\n`
 writeFileSync(outPath, json, 'utf8')
 
-const withTc = members.filter((m) => m.tc).length
-const withoutTc = members.length - withTc
-const odendi2025 = members.filter((m) => m.yearHistory.find((y) => y.year === 2025)?.status === 'odendi').length
-const odendi2026 = members.filter((m) => m.yearHistory.find((y) => y.year === 2026)?.status === 'odendi').length
+const withTc = payload.members.filter((m) => m.tc).length
+const withoutTc = payload.members.length - withTc
+const odendi2025 = payload.members.filter((m) => m.yearHistory?.find((y) => y.year === 2025)?.status === 'odendi').length
+const odendi2026 = payload.members.filter((m) => m.yearHistory?.find((y) => y.year === 2026)?.status === 'odendi').length
 
-console.log(`Üye: ${members.length} (TC’li: ${withTc}, TC’siz: ${withoutTc})`)
+console.log(`Üye: ${payload.members.length} (TC’li: ${withTc}, TC’siz: ${withoutTc})`)
 console.log(`2025 ödendi: ${odendi2025} | 2026 ödendi: ${odendi2026}`)
+console.log(`Örnek isim: ${payload.members[0]?.displayName}`)
 console.log(`Uyarı: ${warnings.length}`)
 for (const w of warnings.slice(0, 30)) console.log(' -', w)
 if (warnings.length > 30) console.log(` ... +${warnings.length - 30} uyarı`)
 
 const token = execSync('gh auth token', { encoding: 'utf8' }).trim()
-const message = `admin: aidat listesi yenilendi (${members.length} üye, yıllık ${YEARLY_FEE}₺)`
+const message = `admin: üye soyisimleri tam gösterilecek şekilde güncellendi`
 await putFile(token, 'gh-pages', 'data/uyeler.json', json, message)
 await putFile(token, 'main', 'public/data/uyeler.json', json, message)
 console.log('Canlıya yazıldı: gh-pages + main')

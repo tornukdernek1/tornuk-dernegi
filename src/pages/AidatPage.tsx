@@ -4,6 +4,7 @@ import { ensureYearHistory, totalDebtFromHistory } from '../lib/aidatHistory'
 import { formatDate, formatMoney, formatMonthKey } from '../lib/format'
 import { hashTc } from '../lib/hash'
 import { DATA_UPDATED_EVENT, loadMembershipData } from '../lib/liveData'
+import { maskDisplayName } from '../lib/maskName'
 import { isValidTc, normalizeTc } from '../lib/tc'
 import type { MembershipData, MemberRecord } from '../types'
 
@@ -163,7 +164,7 @@ function ResultCard({ member, data }: { member: MemberRecord; data: MembershipDa
   return (
     <div className="result">
       <div className="result-head">
-        <h2>{member.displayName}</h2>
+        <h2>{maskDisplayName(member.displayName)}</h2>
         <span className={`badge ${hasDebt ? 'badge-debt' : 'badge-ok'}`}>
           {hasDebt ? 'Borçlu' : 'Güncel'}
         </span>
