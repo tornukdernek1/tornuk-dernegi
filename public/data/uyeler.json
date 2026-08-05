@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-05T19:59:26.206Z",
+  "updatedAt": "2026-08-05T19:59:54.175Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2617,29 +2617,6 @@
           "status": "borclu",
           "debtAmount": 1000,
           "note": ""
-        },
-        {
-          "year": 2025,
-          "status": "odendi",
-          "debtAmount": 0,
-          "note": "Ödenen: 1000 ₺"
-        }
-      ]
-    },
-    {
-      "idHash": "060f2fe6e26ac98f7d4cd8049c01ad21c0ab6f04f5e1699620c4659b773d4937",
-      "tc": "29932683440",
-      "displayName": "Cemil(Mustafa) Temel",
-      "debtAmount": 0,
-      "debtMonths": [],
-      "lastPayment": "2026-01-01",
-      "notes": "",
-      "yearHistory": [
-        {
-          "year": 2026,
-          "status": "odendi",
-          "debtAmount": 0,
-          "note": "Ödenen: 1000 ₺"
         },
         {
           "year": 2025,
