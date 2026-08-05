@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-05T09:53:30.381Z",
+  "updatedAt": "2026-08-05T19:58:59.480Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2450,29 +2450,6 @@
       "debtMonths": [],
       "lastPayment": "2026-01-01",
       "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
-      "yearHistory": [
-        {
-          "year": 2026,
-          "status": "odendi",
-          "debtAmount": 0,
-          "note": "Ödenen: 1000 ₺"
-        },
-        {
-          "year": 2025,
-          "status": "odendi",
-          "debtAmount": 0,
-          "note": "Ödenen: 1300 ₺"
-        }
-      ]
-    },
-    {
-      "idHash": "181bee32318413e39da594b747e65a5344c4ce46fa99ecad5cbc5405cc0c80d7",
-      "tc": "29485698304",
-      "displayName": "Cemil(Salim) Temel",
-      "debtAmount": 0,
-      "debtMonths": [],
-      "lastPayment": "2026-01-01",
-      "notes": "",
       "yearHistory": [
         {
           "year": 2026,
