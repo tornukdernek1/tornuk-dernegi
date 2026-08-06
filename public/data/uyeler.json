@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-05T20:36:22.845Z",
+  "updatedAt": "2026-08-06T06:41:52.563Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2308,7 +2308,7 @@
       "idHash": "62e4b7d2f8ce6fd64201f2cab3e0bb0815d93c9d788c009af6ee7a854f175ec2",
       "tc": "24016880616",
       "displayName": "Oğuzhan Şahin",
-      "debtAmount": 2000,
+      "debtAmount": 1000,
       "debtMonths": [],
       "lastPayment": null,
       "notes": "",
@@ -2321,8 +2321,8 @@
         },
         {
           "year": 2025,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         }
       ]
