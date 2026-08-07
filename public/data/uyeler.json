@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-07T08:14:52.111Z",
+  "updatedAt": "2026-08-07T08:15:10.436Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1986,15 +1986,15 @@
       "idHash": "2d779c86c30ce766e47e69f45aba85a1af5112e043e2fd23ac2f31d4477987be",
       "tc": "35941668170",
       "displayName": "Şenol Kutlu",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
