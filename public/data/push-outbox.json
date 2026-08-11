@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:05:38.194Z",
+  "updatedAt": "2026-08-11T22:28:37.040Z",
   "items": [
     {
       "id": "duyuru-2026-08-03-msd8ivvv-android",
@@ -13,7 +13,7 @@
       "id": "etk-2026-08-03-msd8j8py-bildirim-etkinlik",
       "kind": "etkinlik",
       "title": "Bildirim etkinlik",
-      "body": "2026-08-03 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· 14:00 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Dernek Lokali",
+      "body": "2026-08-03 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· 14:00 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Dernek Lokali",
       "url": "https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=etkinlikler&r=1785761913310&etkinlik=etk-2026-08-03-msd8j8py-bildirim-etkinlik",
       "createdAt": "2026-08-03T12:58:33.310Z"
     },
@@ -26,10 +26,10 @@
       "createdAt": "2026-08-03T14:05:07.488Z"
     },
     {
-      "id": "duyuru-2026-08-03-msdc9adz-gÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rkem",
+      "id": "duyuru-2026-08-03-msdc9adz-gÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rkem",
       "kind": "duyuru",
-      "title": "GÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rkem",
-      "body": "GÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rkme",
+      "title": "GÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rkem",
+      "body": "GÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rkme",
       "url": "https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=duyurular&r=1785768170143&duyuru=duyuru-2026-08-03-msdc9adz-g%C3%B6rkem",
       "createdAt": "2026-08-03T14:42:50.143Z"
     },
@@ -42,17 +42,17 @@
       "createdAt": "2026-08-03T14:43:43.356Z"
     },
     {
-      "id": "etk-2026-08-03-msdefa2i-yÃÂÃÂ¶netim-toplantÃÂÃÂ±dÃÂÃÂ±",
+      "id": "etk-2026-08-03-msdefa2i-yÃÂÃÂÃÂÃÂ¶netim-toplantÃÂÃÂÃÂÃÂ±dÃÂÃÂÃÂÃÂ±",
       "kind": "etkinlik",
-      "title": "YÃÂÃÂ¶netim ToplantÃÂÃÂ±dÃÂÃÂ±",
-      "body": "ÃÂÃÂyeletimiz istaÃÂÃÂare",
+      "title": "YÃÂÃÂÃÂÃÂ¶netim ToplantÃÂÃÂÃÂÃÂ±dÃÂÃÂÃÂÃÂ±",
+      "body": "ÃÂÃÂÃÂÃÂyeletimiz istaÃÂÃÂÃÂÃÂare",
       "url": "https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=etkinlikler&r=1785771807655&etkinlik=etk-2026-08-03-msdefa2i-y%C3%B6netim-toplant%C4%B1d%C4%B1",
       "createdAt": "2026-08-03T15:43:27.655Z"
     },
     {
-      "id": "duyuru-2026-08-03-msdljs28-faruk-ÃÂahin",
+      "id": "duyuru-2026-08-03-msdljs28-faruk-ÃÂÃÂahin",
       "kind": "duyuru",
-      "title": "Faruk ÃÂahin",
+      "title": "Faruk ÃÂÃÂahin",
       "body": "Ksksks",
       "url": "https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=duyurular&r=1785783775495&duyuru=duyuru-2026-08-03-msdljs28-faruk-%C5%9Fahin",
       "createdAt": "2026-08-03T19:02:55.495Z"
@@ -66,12 +66,20 @@
       "createdAt": "2026-08-03T19:05:17.673Z"
     },
     {
-      "id": "etk-2026-08-03-msdln9kj-iftar-prohramı",
+      "id": "etk-2026-08-03-msdln9kj-iftar-prohramÄ±",
       "kind": "etkinlik",
-      "title": "İftar prohramı",
-      "body": "İfatwt sjsjsj",
+      "title": "Ä°ftar prohramÄ±",
+      "body": "Ä°fatwt sjsjsj",
       "url": "https://mustafatemel1986-ops.github.io/tornuk-dernegi/?tab=etkinlikler&r=1785783937506&etkinlik=etk-2026-08-03-msdln9kj-iftar-prohram%C4%B1",
       "createdAt": "2026-08-03T19:05:37.506Z"
+    },
+    {
+      "id": "duyuru-2026-08-11-msp8f3gm-duyuru-deneme",
+      "kind": "duyuru",
+      "title": "Duyuru Deneme",
+      "body": "Duyuru Deneme",
+      "url": "https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=1786487316401&duyuru=duyuru-2026-08-11-msp8f3gm-duyuru-deneme",
+      "createdAt": "2026-08-11T22:28:36.401Z"
     }
   ]
 }
