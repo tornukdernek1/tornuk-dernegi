@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-08-07T08:15:10.436Z",
+  "updatedAt": "2026-08-11T19:13:23.416Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -3251,15 +3251,15 @@
       "idHash": "55880545002a6f97a8205d7f8da110e6e6e72cba184c0546892c82c56992e9ba",
       "tc": "31360635816",
       "displayName": "Abdurrahman Topar",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
