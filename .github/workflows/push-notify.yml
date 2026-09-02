@@ -26,7 +26,7 @@ jobs:
           cache: npm
 
       - name: Install
-        run: npm install --omit=dev
+        run: npm install web-push@^3.6.7
 
       - name: Send Web Push
         env:
