@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:37:47.048Z",
+  "updatedAt": "2026-09-02T07:37:51.709Z",
   "subscriptions": [
     {
       "endpoint": "https://fcm.googleapis.com/fcm/send/fUKN-8WIS-E:APA91bHNqAyiay-IvSzczbl77JPxUbHi_Jc5DnWPyC_qPIG-RvoLpVKwhHm1Dnp9UTWBCheoGd02T5uInUlBui7Xbdq2hNstjd0OIKX7_pfpfchP_-Uy_CJljG46kvGsbZ9rrDVv2eAW",
@@ -8,14 +8,6 @@
         "auth": "MGDVjuOD9mEzYZMEW21A9Q"
       },
       "createdAt": "2026-08-03T19:15:39.332Z"
-    },
-    {
-      "endpoint": "https://fcm.googleapis.com/fcm/send/egfX8K9VYEI:APA91bF0MFWRjvAf7J327lOBb3GIds8VJYR9Yf9KBTB_x7gsFflRjfT2Y-Labe7QeH7gG3rkPW9mvBIXwhFZ7wNcDZEGl1_J6n2CncPuVhR45qnvdJSy_wOHGF4UkLqJ-VjoNL21fnkR",
-      "keys": {
-        "p256dh": "BNGqq63jzRpcgyDo05N3FMZnJn8w8mTQMQrGBOt9pXni5Yb7qYl038JBV4ZGCN9_tJ0QA29GCaKPaLdMtVYHIg8",
-        "auth": "9Y390IURbG62hTzjL6T6kw"
-      },
-      "createdAt": "2026-08-03T19:04:54.721Z"
     },
     {
       "endpoint": "https://web.push.apple.com/QJ4XfE4evm4CgWikRs_1ClP--BybINdSR8MVIfDQzjd1p0Si4UbIiYoIMMukQjuHQC43UsGKm4CCQ8zVpsKdzCpdc6cJAnvjawzlyGftvQTaTmKLbQncwQLxvbO4T4VWbrBkQhJqd8XbdbnjdJXHjnZwKCt9ho8Heu3g8mmxsmE",
