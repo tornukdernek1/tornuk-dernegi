@@ -1,4 +1,13 @@
 {
-  "updatedAt": "2026-09-02T08:18:19.264Z",
-  "items": []
+  "updatedAt": "2026-09-02T08:20:28.258Z",
+  "items": [
+    {
+      "id": "duyuru-2026-09-02-mtjtt4em-deneme1",
+      "kind": "duyuru",
+      "title": "Deneme1",
+      "body": "Deneme1",
+      "url": "https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=1788337227717&duyuru=duyuru-2026-09-02-mtjtt4em-deneme1",
+      "createdAt": "2026-09-02T08:20:27.717Z"
+    }
+  ]
 }
