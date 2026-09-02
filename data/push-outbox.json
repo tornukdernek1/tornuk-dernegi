@@ -1,4 +1,13 @@
 {
-  "updatedAt": "2026-09-02T08:52:46.835Z",
-  "items": []
+  "updatedAt": "2026-09-02T08:54:11.110Z",
+  "items": [
+    {
+      "id": "duyuru-2026-09-02-mtjv0hcx-test",
+      "kind": "duyuru",
+      "title": "Test",
+      "body": "Test",
+      "url": "https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=1788339250589&duyuru=duyuru-2026-09-02-mtjv0hcx-test",
+      "createdAt": "2026-09-02T08:54:10.589Z"
+    }
+  ]
 }
