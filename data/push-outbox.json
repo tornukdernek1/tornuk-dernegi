@@ -1,21 +1,4 @@
 {
-  "updatedAt": "2026-09-02T08:55:12.633Z",
-  "items": [
-    {
-      "id": "duyuru-2026-09-02-mtjv0hcx-test",
-      "kind": "duyuru",
-      "title": "Test",
-      "body": "Test",
-      "url": "https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=1788339250589&duyuru=duyuru-2026-09-02-mtjv0hcx-test",
-      "createdAt": "2026-09-02T08:54:10.589Z"
-    },
-    {
-      "id": "duyuru-2026-09-02-mtjv1tjv-test1",
-      "kind": "duyuru",
-      "title": "Test1",
-      "body": "Test1",
-      "url": "https://tornukdernek1.github.io/tornuk-dernegi/?tab=duyurular&r=1788339312141&duyuru=duyuru-2026-09-02-mtjv1tjv-test1",
-      "createdAt": "2026-09-02T08:55:12.141Z"
-    }
-  ]
+  "updatedAt": "2026-09-02T08:55:32.857Z",
+  "items": []
 }
