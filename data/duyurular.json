@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-02T08:20:22.798Z",
+  "updatedAt": "2026-09-02T08:54:05.793Z",
   "items": [
+    {
+      "id": "duyuru-2026-09-02-mtjv0hcx-test",
+      "title": "Test",
+      "summary": "Test",
+      "body": "Test1",
+      "date": "2026-09-02"
+    },
     {
       "id": "duyuru-2026-09-02-mtjtt4em-deneme1",
       "title": "Deneme1",
