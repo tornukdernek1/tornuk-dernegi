@@ -1,0 +1,71 @@
+{
+  "name": "Törnük Derneği",
+  "shortDescription": "Yardımlaşma ve Dayanışma Derneği",
+  "address": "Kavakpınar, Gülyalı Cd. 29 A, 34899 Pendik/İstanbul, Türkiye",
+  "phone": "+90 535 449 78 42",
+  "email": "tornukdernegi@gmail.com",
+  "workingHours": "Hafta içi 09:00 – 18:00",
+  "board": [
+    {
+      "role": "Başkan",
+      "name": "Ersin Çakar"
+    },
+    {
+      "role": "Başkan Yardımcısı",
+      "name": "Bünyamin Kara"
+    },
+    {
+      "role": "Başkan Yardımcı",
+      "name": "Murat Uzun"
+    },
+    {
+      "role": "Başkan Yardımcısı",
+      "name": "Nazmi Karahan"
+    },
+    {
+      "role": "Muhasip",
+      "name": "Faruk Şahin"
+    },
+    {
+      "role": "Sekreter",
+      "name": "Adnan Temel"
+    },
+    {
+      "role": "Sosyal İşler",
+      "name": "Ruhi Kaya"
+    }
+  ],
+  "donation": {
+    "bankName": "Ziraat Bankası",
+    "accountName": "Törnük Derneği",
+    "iban": "TR06 0001 0026 4584 3998 1550 07",
+    "note": "Açıklama kısmına adınızı soyadınızı ve \"aidat\" veya \"bağış\" yazınız.\nÖdemenizin sisteme girilmesi için dekontunuzu dernek yönetimine iletiniz."
+  },
+  "documents": [],
+  "faq": [
+    {
+      "q": "Aidat borcumu nasıl öğrenebilirim?",
+      "a": "Aidat sekmesine girip T.C. kimlik numaranızı yazarak borç durumunuzu anında görebilirsiniz.Bir yanlışlık olduğunu düşünüyorsanız dernek yönetimi ile iletişime geçebilirsiniz."
+    },
+    {
+      "q": "Aidatımı nasıl öderim?",
+      "a": "Bağış / Ödeme bölümündeki IBAN'a havale/EFT yapabilirsiniz. Açıklamaya ad-soyad ve \"aidat\" yazmayı unutmayın. Dekontu dernek yönetimine iletebilirsiniz."
+    },
+    {
+      "q": "Aylık aidat tutarı nedir?",
+      "a": "Güncel aylık aidat tutarı Aidat sekmesinin altında ve uygulama ana sayfasında görüntülenir."
+    },
+    {
+      "q": "Bildirimleri nasıl açarım?",
+      "a": "Uygulamayı ana ekrana ekledikten sonra Menü > Bildirimler bölümünden izin verin. Yeni duyurularda telefonunuza uyarı gelir."
+    },
+    {
+      "q": "Yönetim ile nasıl iletişime geçerim?",
+      "a": "Dernek Bilgileri sayfasındaki telefon ve e-posta adreslerini kullanabilirsiniz."
+    },
+    {
+      "q": "Üyelik için ne yapmalıyım?",
+      "a": "Belgeler bölümündeki üyelik formu henüz aktif olmadığı için şimdilik dernek yönetimi ile iletişime geçebilirsiniz."
+    }
+  ]
+}

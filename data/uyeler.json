@@ -1,0 +1,4401 @@
+{
+  "associationName": "Törnük Derneği",
+  "updatedAt": "2026-08-11T19:13:23.416Z",
+  "monthlyFee": 1000,
+  "currency": "TRY",
+  "members": [
+    {
+      "idHash": "14c3db0de13390332575aa906a22aba8c8b61aa4318d0962749d38377dcbeec4",
+      "tc": "42619260796",
+      "displayName": "Alim Aksoy",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "dc3a88c0d06c1e8ea9cc8f943f49691ab414d65943ee2f98697e4f27a1158259",
+      "tc": "",
+      "displayName": "Erdem Alim",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "806e199008021971398f9b3051cdc1fb28ce69b8315aba520415c584ea44357a",
+      "tc": "31546629646",
+      "displayName": "Zeki Aslan",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "Güncel",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e4de46f61bd3adfd1bbe646a233f00d1eed80f028369f8fc8883a05dab2a1a8b",
+      "tc": "",
+      "displayName": "Engin Ata",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "6cfe472c8bfb122123509b6dbd9e24df9f4b91119321433c474d46c4ccb6046b",
+      "tc": "",
+      "displayName": "Yücel Babayiğit",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "f9e2f7a87bc83023291b70d93a46efb58152196f64ccb3a0034806fdbd96dd23",
+      "tc": "",
+      "displayName": "Kadir Bayrak",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "02b461ae44d22bf62059f804090e9c6d263eceeb3f0cf0de266c9652dbfb2262",
+      "tc": "23971882178",
+      "displayName": "Mustafa Boz",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "7a0409394106f28b8789f71bc21e2d21e798e3e031e2d4031356554424ac0eb3",
+      "tc": "",
+      "displayName": "Ali Boz",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "55f427ae19f59dba8de4ff5201b6cdb18eedab92e9ba4fae8f479a873091d014",
+      "tc": "",
+      "displayName": "Murat Boz",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "609631c838e56e093fc7f3671fd5da42590ca04ccc394e3f96a956061d150fdf",
+      "tc": "",
+      "displayName": "Mehmet Boz",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9006a843ddddc3ce989036035ed9582e22df30d4499b452b027c65a2b32e3e7e",
+      "tc": "",
+      "displayName": "Özcan Boz",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "f8c8094a9cae5f548c5115d0a71fe173bee262599ffb508440b3ec2cb2fd0064",
+      "tc": "23947882980",
+      "displayName": "Ulvi Boz",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3e7ee8e4d14d5905e7e5f81a5503835e15d85ed6293bf5c90de14b8862d1356b",
+      "tc": "",
+      "displayName": "Bayram Boz",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "314121f52dfdf205f1f31e049dce4588b408fb37d0f240a21ca828ff7d03ba17",
+      "tc": "27082778450",
+      "displayName": "Recep Civelek",
+      "debtAmount": 500,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 500,
+          "note": "Ödenen: 500 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "994e00ad61cfa6af1ec78f3b725130b83b6fe7648dc0e5fcad9992f2b3fd7f7c",
+      "tc": "27046779608",
+      "displayName": "Yücel Civelek",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "d882407fb819dac1c8f1c42bb08a26f1d0a9e359dad9add5f1b37e270f2aa574",
+      "tc": "",
+      "displayName": "İlhan Civelek",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "935b1e22df7306673008f3dd5596790dd8f09dbd410eb7302e4a3bbf71f173cd",
+      "tc": "24979848562",
+      "displayName": "Alim Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "601be412cfad4ca914941aa7ef666062626c17e3a79530f614fe0187e7e0e0ca",
+      "tc": "26143809744",
+      "displayName": "Harun Çak",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9244023f8116f1640c4cc57a3cff9428c26425b62361e3f3f120fbacc9f35f17",
+      "tc": "24970848844",
+      "displayName": "Dursun Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "aaf04089f17b08d8f82d22714c30778990198af278def55a641a41c248610e71",
+      "tc": "25711824134",
+      "displayName": "Yasin Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "94fd2f07296b31a33657b3c5a4c6f73893048172fb525ba4c64833037d6dbaa5",
+      "tc": "26089811566",
+      "displayName": "Mümin Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "439bf30334500871b33dddeb6fb61af01b9ae0e3762a0d690477d987c2015dbb",
+      "tc": "",
+      "displayName": "Mustafa Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "fe912b83d5884780f56e5b44f668a33e05393a836e4d6b808cc63183ff2c32a6",
+      "tc": "25798821248",
+      "displayName": "Özcan Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "60ed835e0e5debc6c504659745bb64c313c9587ada53539f0eddf96d509f8bd9",
+      "tc": "24955849354",
+      "displayName": "Tayfun Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "67a6cb77896f827b358624b6f825f5acbc5bad3fc5924cc049499b8428f9695d",
+      "tc": "25834820068",
+      "displayName": "Yalçın Çak",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "a817ad1533d003897187c3959bea22c61693a96bed7b133515878f7b95530769",
+      "tc": "24973848780",
+      "displayName": "Selami Çak",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "8929ff9828d0b19bea9f3abede8566ceee4616219bab2fbdb4d954c8d06c5e48",
+      "tc": "",
+      "displayName": "Burhan Çak",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "266c3a269e460824d70ff967b191df33015c57553b888de183524268d58063b3",
+      "tc": "",
+      "displayName": "Bahri Çak",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "80fa3a96fd2f3fea89592561a6993678684039d3735e55ee10594df91f16189c",
+      "tc": "26098811274",
+      "displayName": "Muhammet Çak",
+      "debtAmount": 1200,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 200,
+          "note": "Ödenen: 800 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "36251c9f5899c27d96dc930e5df9735c31a6bf77e802a4fd7584f37810b2da64",
+      "tc": "",
+      "displayName": "Numan Çak",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "09a4545a7316b0782747da8aac1a3d68e6b0e5b0e972430f42bc00fb1b96f93c",
+      "tc": "25999814568",
+      "displayName": "Mutlu Ç.",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "704aaeee347764dc563bdfc2aa75c70213318ada7e1296c9f348f540a9ba9a7e",
+      "tc": "",
+      "displayName": "Sevim Çak",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "78e6c405c1d79f7ddb2018cc6331ed62ac4009558c9942bab2d261520d263719",
+      "tc": "",
+      "displayName": "Selçuk Çak",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "bd7f3a5db25abb4c5c75e3730727126545203457b4307499ed341dd942c299a1",
+      "tc": "25792821466",
+      "displayName": "Mete Çak",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "720520de652c787fec6f3df4f23a512ad934e24a323f9c06d566be1064b508bf",
+      "tc": "",
+      "displayName": "Nurettin Çak",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "7a85981542d9125fbd0ed2be7075274199427af6b8d156b14a36a239d52e4e9c",
+      "tc": "26554796060",
+      "displayName": "Ercan Çakar",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "02754f724724658ed861e0ac187f80ad2ea2cd4f1fc598a71fd291bd691f7a74",
+      "tc": "26563795788",
+      "displayName": "Necmettin Çakar",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e32071da8e689037e1a9ab7f4134a02a3895f20216b548db1dcf3923a19d961a",
+      "tc": "",
+      "displayName": "Soner Çakar",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "41f6d518c73829b89077881b321e3cd70fc423499bd74e17109e620a25bd37e5",
+      "tc": "",
+      "displayName": "Taner Çakar",
+      "debtAmount": 1300,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 300,
+          "note": "Ödenen: 700 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "cd157667c4e70b743e9043b194fb1ecfa65e3d71620eef813c2c751cf70adefa",
+      "tc": "26536796644",
+      "displayName": "Coşkun Ç.",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "4af265b539bec0c9459e41c94a519f9e6ba0b69bbe76a307e5a34b78c44572a6",
+      "tc": "",
+      "displayName": "Bahattin Çakar",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "876a22cf220eb4e7e577f9ed7b548af119841207507cea2446b90ec1643abf80",
+      "tc": "",
+      "displayName": "Zekayi Germiç",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "fc0e34eb9763115a7c5971b432b418d8dacff2768f93b28caf2732755a2d4343",
+      "tc": "",
+      "displayName": "Muzaffer Güldalı",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "280225ddec5673257f14dba4d7578ce86d6143c869953c5a6ac43a78614b81fb",
+      "tc": "31213640752",
+      "displayName": "Adem Gündoğdu",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "ea2dca0ee208cf083545c947503c1e394ad1df4a9496dc8f21d0fab1b8d1b271",
+      "tc": "25258839226",
+      "displayName": "Alim İleri",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "4df2d0a15d5cf59f2e527c7163c00e8938533807806907bdbc13224709bb2737",
+      "tc": "64486151588",
+      "displayName": "Mehmet-Mustafa İleri",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3a194fd49c1a608551f0691e5866adc659fd9da598df64c71a2356b054c5b374",
+      "tc": "",
+      "displayName": "Nihat İleri",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "391c0b4482c6d7a60ef731432f86745297946f1213427b348f7cd0a04b4b8d14",
+      "tc": "",
+      "displayName": "Metin İleri",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "1ae88880b057cca4ba65defb83c4541aa2e21380aac53a90e3e666b3a8a8c2ab",
+      "tc": "28924717088",
+      "displayName": "Erdal Kara",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 3300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "184831cd46b587a8f13dfd24e6fcc459828f9f615251b8297318bd178a423906",
+      "tc": "28921717142",
+      "displayName": "Mustafa (Ali) Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "453b561ff1986eb3bfa8fd8db0964d96c268f684e7c42481be1cc891ef56c9c9",
+      "tc": "27670758888",
+      "displayName": "Salih K.",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "Güncel",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 500 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "520029beae1a72612e30a152f6310c732860a4c8235f2a95b1764c42ff2f03be",
+      "tc": "",
+      "displayName": "Hakkı Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "aab5ce2a0c3ff88b0ce30ab54769477f6d83b6805bc2a9266c1c60d6692fc7b8",
+      "tc": "29053712784",
+      "displayName": "Mustafa (Mehmet) Kara",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3fcf50954389e5129e58ebadd1ee3f7291bacf3b75ab9365e5822a5f1775ec08",
+      "tc": "28939716588",
+      "displayName": "Selami Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "7420e55ab8af9eb9d4882c9d82dae20d9a3bbd68c4652954615dc2af6d17b9b5",
+      "tc": "27691758140",
+      "displayName": "Hamza Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "922d0e07aa10f31f6bb5ed1554e1be0636caa719dcf216aeed23aea8a87f8681",
+      "tc": "",
+      "displayName": "Mesut Kara",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "8dd70f6d3f8004bfb9406b8e8025d7e6d5d853472d82a0b8d3f0940c26520cc7",
+      "tc": "27673758724",
+      "displayName": "Ali Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "865a9953c583ec0ff9c32862c3d49440cfa496fc7c9a83bc8280aae1bdcd529e",
+      "tc": "28894718030",
+      "displayName": "Bünyamin Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "accbb940cdeaaa5b3965558dfb8007577baa635c4beafbd57194846ec67e8ac8",
+      "tc": "",
+      "displayName": "Eyüp Kara",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9947a50b068444e787f26ce3e663b83678a1c8cba84adfe115f2a2e1013eb750",
+      "tc": "",
+      "displayName": "Hüseyin Kara",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "a925ab2a309284dfae793940790a5ba9e2565c25fc6ef9878b349d484e01b3fa",
+      "tc": "28909717508",
+      "displayName": "Mahmut Kara",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "16ec167a1bd20f07da38f17e8e8eb8502b6ee43b7a86ac9f0989189489adc717",
+      "tc": "28906717662",
+      "displayName": "Cemil Kara",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "0374dda2171c49eb0170ff5e1f90893af624ba272ebafa52254b7891bfa263ee",
+      "tc": "28546729698",
+      "displayName": "Nazmi Karahan",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "1966500e51592656719a27dcafbedf56a391d69b78e12aa6fffbd23f1d36a5b9",
+      "tc": "",
+      "displayName": "Zaim Karahan",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "bffb858dd42cf9d9c6b83af86f1f694d25b1ce15a665346e6294669a25a86559",
+      "tc": "29227706960",
+      "displayName": "Ergün Kaval",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "291db94d7d2c50976bc1575067528ee94a1487f029778af742304dee5a70a6e8",
+      "tc": "29191708120",
+      "displayName": "Engin Kaval",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e0e3e414f39c71f81635ab917966725f39bdd7acdd07e6ccfe592751e64f11af",
+      "tc": "29206707698",
+      "displayName": "Mücahit Kaval",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "164baa6f4b47e3d314d912015b6013e39c4e000f626e72bc4897ecc78c8133d8",
+      "tc": "29203707752",
+      "displayName": "Burhan Kaval",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "eb18bde133ab61cfd0718132fa0269153e5c56fe8222fe823b7a9ab894e87578",
+      "tc": "24847852998",
+      "displayName": "Osman (Mevlüt) Kaya",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "bcd5a9a2bc7ecd694fbe78ef3532a90803d16d78577295d448675c11bca2c88a",
+      "tc": "",
+      "displayName": "Nadi Kaya",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1200 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "6aad6145f28d4d1948530be55aa8849111cc337704ad36195f7d0dce18dfa2a0",
+      "tc": "",
+      "displayName": "Osman (Ali) Kaya",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "7846d35ec293600d2eb23ce3fe94251a11597680b15dc07ea1f0da729dc8a9fa",
+      "tc": "",
+      "displayName": "Murat Kaya",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "43fe54d17c1f62ace140660cd2d68445d34e5c8d20e957ca4f51fdeb28063110",
+      "tc": "",
+      "displayName": "Muhittin Kaya",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "80565c9791a0c0607e604fcdca119fc92e9ac55d6ff71a2c8441f9160f7a2a52",
+      "tc": "24478865206",
+      "displayName": "İbrahim Kaya",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3c49bac8e0829aaa160433350fb68e0b1b357dcf08be38f2af0aa5ca13120be1",
+      "tc": "",
+      "displayName": "Yahya Kaya",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "918b4df2eb2a46ddbdae578085d08ee827c6ff4c9e2683334c319a0e95c1a962",
+      "tc": "",
+      "displayName": "Mustafa Kaya",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "0fe4621dcedf370b26c3c7a008f7306d84cd2195639ef9e8194a392ad9b08c51",
+      "tc": "24493864796",
+      "displayName": "Ruhi Kaya",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "b66242be051a745570b0aa7ceea2fcb4c0a7c673aaea88247a64d5f2d8b6ea19",
+      "tc": "",
+      "displayName": "Hamza Kaya",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "d1de395e3ca27484528a0ebdc090ea390ec78a89245239962db55a3564ea6366",
+      "tc": "",
+      "displayName": "Rıdvan Kengil",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "0ef0421b682177f5a4a6cc2b81da9c0c280061ad58e067c94012a78fb7cf2332",
+      "tc": "27205774352",
+      "displayName": "Aşkın Kozlu",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "7e63ae8b363df889f753888f048a36a1c32e0b59c3008de0831da847b4ce9321",
+      "tc": "27190774894",
+      "displayName": "Muammer Kozlu",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "882d95d436991b251a2527cd5dac48bae12f9adcbf3fa5534ce991fdade30e35",
+      "tc": "",
+      "displayName": "Soner Kozlu",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "02fbf9179605e5a594a6114b7cc91abc505d369afead6bb139ae49bde8d75fa3",
+      "tc": "27382768496",
+      "displayName": "Nadi Kozlu",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "08b98dc1b0ed87bf56d9b07f97d51eff318f7d0be855b69d168f0733e1c8989c",
+      "tc": "",
+      "displayName": "Yasin Kozlu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "465a2075c6186ad3ce4096389175ea7305e721ff8fc3db3e0a2c0d7ce075b790",
+      "tc": "",
+      "displayName": "Eftal Kozlu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "c80a676909750f6225a3a6f3f0fd28d9499004eb8d3861469cd0da5b2e7c9d63",
+      "tc": "",
+      "displayName": "Habil Kozlu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "2d779c86c30ce766e47e69f45aba85a1af5112e043e2fd23ac2f31d4477987be",
+      "tc": "35941668170",
+      "displayName": "Şenol Kutlu",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "Güncel",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "0f83b0669d6b713a54ad9bfe73ade165a8d388a15426c28c154bed695a6f8dcd",
+      "tc": "27943749780",
+      "displayName": "Hakan Mendeş",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "1e98670db296144707e492b1e49ed9b9e33833e4efe15f97c03b0cc7ac3aef17",
+      "tc": "",
+      "displayName": "Hasan Mendeş",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "b79f7dcd4da0dedd1799c285e1bdbd39bc4f56cff9408ce5266a1d0f77889e94",
+      "tc": "32137609900",
+      "displayName": "Mustafa Meral",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "d37506836ee157a9774fbc9517a8ae499e087f98b0538683af2e17f11a6a15f1",
+      "tc": "41737290104",
+      "displayName": "Muammer Meral",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "f9a3a8bf28616600b9085c58df76741448e25eb0f7cc183fe88ed6a47dd15bd1",
+      "tc": "",
+      "displayName": "Mehmet Narin",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3fdabbaf10ff51f196fa250a1a239e4c6959a9fa5acd72b9c1c0341c7f536d4a",
+      "tc": "",
+      "displayName": "Hasan Sarı",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9ed5d7d342d6608ffd3445b564e2218672b46424963c1a6779b4a49dbd4ba14b",
+      "tc": "43912402432",
+      "displayName": "Cabir Soylu",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "4e8ece6bb4fe9d56b9716ba2b53118a93ca00d9cb306480546e9084b4de25512",
+      "tc": "",
+      "displayName": "Murat Soylu",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "033d06ae1967217ae3a7e9c728be63f69782daa3aee9f5199ed16f9f3c51fe36",
+      "tc": "",
+      "displayName": "Zeki Soylu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "c7778041782ad27a0e93cae9fc67ab939c7dd7c1bd41f91805fa9afef31b7cc4",
+      "tc": "",
+      "displayName": "Cengiz Soylu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "fa4d59dd71758e1f0319055501124842c7aa044d8b802a37c6d751262ef912ca",
+      "tc": "",
+      "displayName": "Ahmet Soylu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "2ba79f09f9cab7eb2b3f5035607bdebe5f07d7cb47469384fa1afcd0c78120d9",
+      "tc": "24040879846",
+      "displayName": "Faruk Şahin",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "35175fe98d5d93cd929c835fc643dab7ce76195ea97caf92182255a3a86185b6",
+      "tc": "24034880032",
+      "displayName": "Turgut Şahin",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "62e4b7d2f8ce6fd64201f2cab3e0bb0815d93c9d788c009af6ee7a854f175ec2",
+      "tc": "24016880616",
+      "displayName": "Oğuzhan Şahin",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "Güncel",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "940713a4100079bce9194ea196ee00575844138777aec7faf7628a20123bb696",
+      "tc": "24043879782",
+      "displayName": "Erdoğan Şahin",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "4c88d403b88a5851b4d69ee0761758d9442490c5fdb765a8751911d9a9fc1883",
+      "tc": "",
+      "displayName": "Recep Şayık",
+      "debtAmount": 1500,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 500,
+          "note": "Ödenen: 500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "8e095155044e5528cac34792e9723bd87e3278f7069922579bbe803e6da42f01",
+      "tc": "30250672870",
+      "displayName": "Yahya Tanoğlu",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3d433a5b0a5c05206cc8512714a63680f7b2e8c4139759aa7878d158e1e201f9",
+      "tc": "",
+      "displayName": "Ayhan Tanoğlu",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "74679f53bdd4b2a58638fadea96af388b189206cbe1eda5cf3062511f933524e",
+      "tc": "",
+      "displayName": "Mustafa(Salim) Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9070ed9a99b3b727dd0016e898a5ce5d8bb3705ce925899423090adc784a5ef1",
+      "tc": "",
+      "displayName": "Bülent Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "d0f59389cf4c90e2d31af66983f612d2c098e625419f1aafb5c8161e3bef02e1",
+      "tc": "29839686506",
+      "displayName": "Muhammed Temel",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "5ddd30689c5efdc700bdb3f09e64dbfb4ae418fdbb922fb6f6de10ab05861973",
+      "tc": "",
+      "displayName": "Tahsin Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "a7476a8f0505d8f29d0c5522ecb8b45a5d21aaeac1ccf31830d0ae1b06d447a7",
+      "tc": "29596694684",
+      "displayName": "Recai Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9fbeab1ccd03816c1e18ebbf207697a3fb9c661cbe15b45c598b2e5d84b64352",
+      "tc": "29815687398",
+      "displayName": "Bahtiyar (Salim) Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "666b9fa25fd7c5fdd30fe98b5771f6dbeaaaac193f117054dffb43f761218279",
+      "tc": "29902684460",
+      "displayName": "Adnan Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "b7302effe931dbf1ca6a535d2bc8198c98def4c8fec70662ed45c9096a10a792",
+      "tc": "29512697416",
+      "displayName": "Ünal Temel",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "196e6f5a529e41e3e93697def89f5952434dab3bc1d5c843d6b9eb97767383a0",
+      "tc": "",
+      "displayName": "Yavuz Temel",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "ebfb4befcd8ea9ddb6b3f10ff25cee0d92e2f5cccaf2580e5e1b969de9268d57",
+      "tc": "",
+      "displayName": "Ruhi Temel",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "b9671b3c25a2bdc670378412c503484797c90608ac45aa0e3fba4c119137704c",
+      "tc": "29500697862",
+      "displayName": "Yücel Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "8758bc2a9ae1e169279aece3485c601cc8994cb385774e97ec03bd3c054bed02",
+      "tc": "29842686432",
+      "displayName": "Bahtiyar(Halil) Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "909af09d68edc1efbdefdd335831af606a2a564c03c9c48f7de462f9b18d15c7",
+      "tc": "",
+      "displayName": "Yusuf Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "c82dca6ef9cc16e7d91e66d7b23024d900656e87130fccf22d61616169d595f8",
+      "tc": "",
+      "displayName": "Tunahan Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "6316f21e1b9c27a967ee909ac6bf70b34f349038365538fa58eb92fa50c58d29",
+      "tc": "",
+      "displayName": "Zekeriya Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "45ede0e46d911b9e13c32bbb8a2969aa1fdc8af370a7ca398a12d8bd0e1ace2c",
+      "tc": "29896684620",
+      "displayName": "Mustafa Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "02d2546277c2dc69ad02b1fcece403412676d52c6b8b8d59d3c165ef80d31d65",
+      "tc": "",
+      "displayName": "Atakan Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "6daa78f551d71e42af27fb430570318ffbea1587e274917783f94f72783aa428",
+      "tc": "",
+      "displayName": "Sait Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "29b6cbd9e21c127775db07d9d2b21d482f162df439f5372c9cda097387a1d571",
+      "tc": "",
+      "displayName": "İlyas Temel",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "0427cc428aa2ff6e20689e0b7f7a2789e9e381038a9c3ccc304f81a6699bc8d2",
+      "tc": "",
+      "displayName": "Salim Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "8f13afa6a921455dbb6a3f14e631cda815978380d6db7cea00877dd25b32a544",
+      "tc": "",
+      "displayName": "Sabri Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "0f16fec7cb71688acd5a721c0244fcbc44caabc8af4957ea698f231b86ef9e99",
+      "tc": "",
+      "displayName": "Hakkı Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "b8ae5fbaeefd081287a6dabb4b29fead2e51217d7ffa55b9b6f438c135691c23",
+      "tc": "30715657374",
+      "displayName": "Sinan Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "89ce766af46100e6b0dc077ae580e345b7045e3a02ca21a2fdab46eba4fd3896",
+      "tc": "30751656126",
+      "displayName": "Esat Ten",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "afaff7d322279ab42c3db027a7990405a2d55e2cdd101631c4482bab0a070911",
+      "tc": "30604661062",
+      "displayName": "Yıldıray Ten",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "8dc050c5dae55a064aa3cfbef3d82ca054ad3daf84a0f462b8c0b1f0d25847ab",
+      "tc": "30760655844",
+      "displayName": "Yücel Ten",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "05e7e9d2c0fab693c5960a9476cab3bd27241791e6d813eb00832b8c3a46d439",
+      "tc": "38275405510",
+      "displayName": "Kudret Ten",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "7a38eab2e6b52ff2846f599874f6a17ae909800ed437c8a06c72130385bbd97a",
+      "tc": "",
+      "displayName": "Osman Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "6c11e8b85d8feff3fc7935192beb96ffb0efb7e6761e569417f1461d71e7f28d",
+      "tc": "30691658198",
+      "displayName": "Ramazan Ten",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "96067a32bfc0b1b7572e3f25fdd448e750caac44cd1a4ae60517c895245e70ad",
+      "tc": "30718657210",
+      "displayName": "Coşkun Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "c3cc57fb5f7fc25f918fecfb8685f88bb5695acfb5fff5c3cb951af9f09ca8ed",
+      "tc": "30412667492",
+      "displayName": "Muhammed (Sabri) Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "5a5b9f018feb8f2d75fcdcd6dead060b6f5b8b580c495e99e8ac9741f2a28f9c",
+      "tc": "",
+      "displayName": "Muhammet (Hoca) Ten",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e1e3394f92500c1d5fe37c54dcf7e9d59ace1c111e399a4112eb3b692477ba79",
+      "tc": "24986069486",
+      "displayName": "Servet Ten",
+      "debtAmount": 500,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 500,
+          "note": "Ödenen: 500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "664aa1f125d28aff09d348cc550b5437330b34f9ab909a3ec77d513581d88ab0",
+      "tc": "30754656062",
+      "displayName": "Recep Ali Ten",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "f0c643f94cad6f0f6ed7cfcc0bf05b1e00c0f4a0a29310bfc1cce5059df9da58",
+      "tc": "",
+      "displayName": "Mehmet Akif Ten",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "0b877e2a761bbe47eb40d9ca2a4b2e1f63357be5e9c5fc3c57b0b1d751bb9a25",
+      "tc": "",
+      "displayName": "Murat Ten",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "55880545002a6f97a8205d7f8da110e6e6e72cba184c0546892c82c56992e9ba",
+      "tc": "31360635816",
+      "displayName": "Abdurrahman Topar",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "Güncel",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "cb1168870083e9052fbc20f7d334ebae084f3406146ead6e7e4ec1721a0525a7",
+      "tc": "29389701582",
+      "displayName": "Celal Topar",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e396c39284c1f3f7eda6d982146eff6eb3109c3263435b29d4a63c99175db880",
+      "tc": "",
+      "displayName": "Salih Tuncer",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "d85a2b7e6d522dfc6f94e393e14f086da1b1db48e2dcd1af59722423f5e3893e",
+      "tc": "64501151036",
+      "displayName": "Mustafa Tuncer",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "09c84babf8e6716107a7c25bc043a1177def3821ce1b07cf2e9c4f035b1e39b4",
+      "tc": "",
+      "displayName": "Osman Tuncer",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "2fc5906a789e6c096a2eb3e46d7dd22cee2bb85505450d7d31d446fcaae02236",
+      "tc": "28147742904",
+      "displayName": "Yusuf -Bayram Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 2000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 3600 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "48b28e97e65f1876da1dfca685de351ca3d15a39ef46bc6308cf8ae601ee6eb7",
+      "tc": "28252739424",
+      "displayName": "Orhan Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "f20a76049feebe117dc57633635c883d86bc2f64bd8a76c1ae0a85a7c4429101",
+      "tc": "28228740294",
+      "displayName": "Yener Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "3881ce180a5adfb2c048bafd8e8272668125c9624a4f0dbfe80753dfabede6b3",
+      "tc": "28330736888",
+      "displayName": "Ali Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e4727474368ebce52ca4247980b1448c5cc75d1b9bc958bbc4bb501fb7e342a0",
+      "tc": "",
+      "displayName": "Erdem Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "eb7ccdc1dc12f5b1f66702f8403cfdb9be760eb7039c4a935c67c6e27b9a0b3c",
+      "tc": "28345736378",
+      "displayName": "Şenol U.",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "fca568084e22821688ec8cb5ede5557c3e3f1fe7704168db8d0246cc5b751226",
+      "tc": "28117743924",
+      "displayName": "Yunus Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e42200a8de71f118eaa39f63f3cc4707da7e3e5e1857c951ca25960104439e81",
+      "tc": "28225740358",
+      "displayName": "Yücel Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "f36702157f52eb5782c9a182342e090ff0f038ddc4aef07e2806f5675ee7a3ea",
+      "tc": "28315737398",
+      "displayName": "Şaban Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "f3c00275283b548051e6198c118462d55c246fc07db087454562888b7b64be3a",
+      "tc": "",
+      "displayName": "Hikmet Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "e5024acdd67d9a8392218cd261771272d3d18c6837757a5e41494ee2984ab125",
+      "tc": "",
+      "displayName": "Fikret Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "19fa7495e80ac5031ea59b9be4d075aa1837f02a9470a0e3795b42d4e90950cf",
+      "tc": "28213740704",
+      "displayName": "Cengiz Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "812962ccbc85fe643817f236c6e1482a2c37c429169740c18cd1116e9fc1a391",
+      "tc": "28174742038",
+      "displayName": "Mustafa (İsmail) Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "a589ec421f50102fe3a5dbed59e803c3ce8d4d53e171e5d50ed3ce815f1128b3",
+      "tc": "28099744520",
+      "displayName": "Rasim Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "c27c12049e5561fd3d4fde81ec7873d71284e0e24411061383b63612a5b8fc0f",
+      "tc": "28210740868",
+      "displayName": "Nedim Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "12d3961cce8f434fa85bcaea48147dfee0871e3897dee2bd4614a4331431fd7e",
+      "tc": "28201741140",
+      "displayName": "Murat Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "27d8d5935dfef37f775bd3c01d4188da85ddcefcd28f3e8fab765cc1660403c8",
+      "tc": "28204741086",
+      "displayName": "Adem Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "bb6324d1c75eabd51b922c10c7b41450993f973e04dcbe8560dee78bb6884903",
+      "tc": "28318737234",
+      "displayName": "Süleyman Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "93507342fcad585ccb225e6e796879eda2d0551198dd7b502af4de8d1d991bf5",
+      "tc": "",
+      "displayName": "Mutlu Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "297fb3f3c6c1bdbaa9787ff1e4e80ddfda743ac0bcd1c808e622ef216a1d68aa",
+      "tc": "28054746040",
+      "displayName": "Eren Uzun",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "cabd2b2109b032b9675ff4959b907ed7a0390ebe85c0ebde4cc056f60e31f849",
+      "tc": "",
+      "displayName": "Suat Uzun",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "d2c5551efd4ec69e2aae6a270484e3b0f2690c1beaffa5ce660fcb60ec16af13",
+      "tc": "",
+      "displayName": "Osman Uzun",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "995e95d38170313a60225e2e0e1e68f4634a25e7d6eebfdbf8982413334aad3a",
+      "tc": "",
+      "displayName": "Habibullah Uzun",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "801902673bff7a3c088306795b9a96534b6c4b7d4d5b842fa1978d7b51e013dd",
+      "tc": "",
+      "displayName": "Saffet Uzun",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "bdb8310dfad7c660778c2d8294553c1ad8b527bdb61ec3f064f801fb8cabc811",
+      "tc": "26737789964",
+      "displayName": "Emre Ünlü",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "6f50ff96e3e5f7674aa4bc5b411354718ea086d1b37a43d90bb50ee6c47cee0c",
+      "tc": "26863785724",
+      "displayName": "Mutlu Ünlü",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9c25c071e3362513a3fcccf167a699f8ed87fb5cfa5cdcbc5ac6a80ae3083112",
+      "tc": "26821787180",
+      "displayName": "Anıl Ünlü",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "bf9236fe35f686e40c6a92ea5e3b70c04909340eea02bcd2967811de2f2ade7e",
+      "tc": "32575595506",
+      "displayName": "Özgür Ünlü",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "5350c98bb8382044687974777d0b4afb3cb1636518d0e0d91c1ebb13ffba2178",
+      "tc": "",
+      "displayName": "Kenan Yayla",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1500 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "b9bfa091f77a9fccdd4fbdc10d4ccb1d5dcb1c75572b91e8903453d74d04e3db",
+      "tc": "25564829034",
+      "displayName": "Harun Yayla",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1300 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "ed01631c2ccc1b97906c9b53b0867dd0dffd4f57f09e016d5ef39af4fcc67afd",
+      "tc": "",
+      "displayName": "Adnan Yayla",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "96da0546ca001646b8a855a8efc34a0943fb813b1a2bc8d12088abc2647b8121",
+      "tc": "",
+      "displayName": "Murat Yayla",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "65ee50b160d140feb43d4fd9ca1fe84a1383cc57e1b7ff918dea437d438894e7",
+      "tc": "",
+      "displayName": "Lokman Yayla",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "b3c6340e622db6e4793f35e3de7f6af02b5f407b9cba74df10e066f6f0093c3e",
+      "tc": "25495831366",
+      "displayName": "Turgut Yayla",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "824c1cc3798173933c81bf74f91cc848273ad353b62d1861a5dd632d85881e78",
+      "tc": "",
+      "displayName": "Selim Yayla",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "9325baa81a440689af695dc3423414045345167d072e7645d0c8771cae0325d0",
+      "tc": "25474832094",
+      "displayName": "Naim Yayla",
+      "debtAmount": 1000,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "ef5576dbb7a6c6ed8ea58c775dcc07077dcb3a3d3e63644f2138d22e9e881c10",
+      "tc": "25489831594",
+      "displayName": "İsa Yayla",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "fa1313bb1b9222a9658e4babd2973dc223979f661d283b1ef570c54f49e2a38b",
+      "tc": "65404120990",
+      "displayName": "İsmail Yayla",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": "2026-01-01",
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Ödenen: 1000 ₺"
+        }
+      ]
+    },
+    {
+      "idHash": "febf1c65a8a2a1c3970f25b63afcde023f34ff5578b9ec7ecf925453ce0f50d6",
+      "tc": "",
+      "displayName": "Süleyman Yayla",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "6e6294f7d19aa4f0e7f88e1755b45794d26ea446c14573dd99f3434d715513e4",
+      "tc": "",
+      "displayName": "Beytullah Yayla",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "374e9954aa3c6baeb4a300e4ce6ab20dcc40695372a101638908c85876f18940",
+      "tc": "",
+      "displayName": "Mustafa Yayla",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "a3676b67f6763a2566edecbf3164d879e3cb388f31eac6c39ed54b528e7eda13",
+      "tc": "",
+      "displayName": "Suat Yayla",
+      "debtAmount": 2000,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "borclu",
+          "debtAmount": 1000,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "0b96da46e708e614b841f65f0a5b45b92cef844f312b85b04e4b32c805229eb6",
+      "tc": "26551796124",
+      "displayName": "Ersin Çakar",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "Güncel",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "181bee32318413e39da594b747e65a5344c4ce46fa99ecad5cbc5405cc0c80d7",
+      "tc": "29485698304",
+      "displayName": "Cemil (Mustafa) Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "idHash": "060f2fe6e26ac98f7d4cd8049c01ad21c0ab6f04f5e1699620c4659b773d4937",
+      "tc": "29932683440",
+      "displayName": "Cemil (Salim) Temel",
+      "debtAmount": 0,
+      "debtMonths": [],
+      "lastPayment": null,
+      "notes": "",
+      "yearHistory": [
+        {
+          "year": 2026,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        },
+        {
+          "year": 2025,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
