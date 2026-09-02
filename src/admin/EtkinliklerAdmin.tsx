@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { publishNotifyToNtfy } from '../lib/ntfyPush'
+import { formatNotifyResultMessage, publishNotifyToNtfy } from '../lib/ntfyPush'
 import type { EventItem, EventsData } from '../types'
 
 function todayIso() {
@@ -122,18 +122,19 @@ export function EtkinliklerAdmin({
     setOpenId(item.id)
 
     const summary = [item.date, item.time, item.place].filter(Boolean).join(' · ')
-    void publishNotifyToNtfy({
-      kind: 'etkinlik',
-      id: item.id,
-      title: item.title,
-      summary: item.description.trim() || summary,
-    })
-      .then(() => setMsg('Etkinlik yayınlandı. Üyelere anlık bildirim gönderildi.'))
-      .catch(() =>
-        setMsg(
-          'Etkinlik yayınlandı. Anlık kanal bu ağda kapalı; üyeler uygulama açıksa kısa sürede bildirilir.',
-        ),
+    try {
+      const notify = await publishNotifyToNtfy({
+        kind: 'etkinlik',
+        id: item.id,
+        title: item.title,
+        summary: item.description.trim() || summary,
+      })
+      setMsg(formatNotifyResultMessage('Etkinlik yayınlandı.', notify))
+    } catch {
+      setMsg(
+        'Etkinlik yayınlandı. Anlık kanal bu ağda kapalı; üyeler uygulama açıksa kısa sürede bildirilir.',
       )
+    }
   }
 
   async function removeItem(id: string) {
