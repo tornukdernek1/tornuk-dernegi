@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-09-03T14:46:22.602Z",
+  "updatedAt": "2026-09-03T14:46:44.806Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1549,15 +1549,15 @@
       "idHash": "164baa6f4b47e3d314d912015b6013e39c4e000f626e72bc4897ecc78c8133d8",
       "tc": "29203707752",
       "displayName": "Burhan Kaval",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
