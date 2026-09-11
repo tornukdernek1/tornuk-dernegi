@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-09-03T14:46:44.806Z",
+  "updatedAt": "2026-09-11T10:59:36.750Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1411,15 +1411,15 @@
       "idHash": "16ec167a1bd20f07da38f17e8e8eb8502b6ee43b7a86ac9f0989189489adc717",
       "tc": "28906717662",
       "displayName": "Cemil Kara",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
