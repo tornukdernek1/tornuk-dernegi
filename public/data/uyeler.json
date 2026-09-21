@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-09-11T10:59:36.750Z",
+  "updatedAt": "2026-09-21T11:32:30.100Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -583,15 +583,15 @@
       "idHash": "a817ad1533d003897187c3959bea22c61693a96bed7b133515878f7b95530769",
       "tc": "24973848780",
       "displayName": "Selami Çak",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
