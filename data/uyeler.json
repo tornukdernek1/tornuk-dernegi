@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-09-21T11:32:30.100Z",
+  "updatedAt": "2026-10-13T11:04:30.640Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -629,15 +629,15 @@
       "idHash": "266c3a269e460824d70ff967b191df33015c57553b888de183524268d58063b3",
       "tc": "",
       "displayName": "Bahri Çak",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
