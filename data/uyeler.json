@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:54:46.229Z",
+  "updatedAt": "2026-10-17T16:54:57.478Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2009,15 +2009,15 @@
       "idHash": "0f83b0669d6b713a54ad9bfe73ade165a8d388a15426c28c154bed695a6f8dcd",
       "tc": "27943749780",
       "displayName": "Hakan Mendeş",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
