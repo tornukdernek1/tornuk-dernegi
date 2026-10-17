@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:50:59.212Z",
+  "updatedAt": "2026-10-17T16:51:12.208Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2124,15 +2124,15 @@
       "idHash": "3fdabbaf10ff51f196fa250a1a239e4c6959a9fa5acd72b9c1c0341c7f536d4a",
       "tc": "",
       "displayName": "Hasan Sarı",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
