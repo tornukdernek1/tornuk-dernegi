@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-13T11:04:30.640Z",
+  "updatedAt": "2026-10-17T16:50:40.729Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -4125,15 +4125,15 @@
       "idHash": "b3c6340e622db6e4793f35e3de7f6af02b5f407b9cba74df10e066f6f0093c3e",
       "tc": "25495831366",
       "displayName": "Turgut Yayla",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
