@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:55:45.482Z",
+  "updatedAt": "2026-10-17T16:56:02.430Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -3159,10 +3159,10 @@
       "idHash": "e1e3394f92500c1d5fe37c54dcf7e9d59ace1c111e399a4112eb3b692477ba79",
       "tc": "24986069486",
       "displayName": "Servet Ten",
-      "debtAmount": 500,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
@@ -3172,8 +3172,8 @@
         },
         {
           "year": 2025,
-          "status": "borclu",
-          "debtAmount": 500,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": "Ödenen: 500 ₺"
         }
       ]
