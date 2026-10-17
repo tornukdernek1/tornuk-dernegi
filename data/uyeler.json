@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:54:18.680Z",
+  "updatedAt": "2026-10-17T16:54:21.051Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -882,7 +882,7 @@
       "idHash": "41f6d518c73829b89077881b321e3cd70fc423499bd74e17109e620a25bd37e5",
       "tc": "",
       "displayName": "Taner Çakar",
-      "debtAmount": 1000300,
+      "debtAmount": 100,
       "debtMonths": [],
       "lastPayment": null,
       "notes": "",
@@ -890,7 +890,7 @@
         {
           "year": 2026,
           "status": "borclu",
-          "debtAmount": 1000300,
+          "debtAmount": 100,
           "note": ""
         },
         {
