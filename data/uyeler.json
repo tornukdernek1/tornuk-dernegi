@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:55:08.382Z",
+  "updatedAt": "2026-10-17T16:55:22.229Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1066,21 +1066,21 @@
       "idHash": "3a194fd49c1a608551f0691e5866adc659fd9da598df64c71a2356b054c5b374",
       "tc": "",
       "displayName": "Nihat İleri",
-      "debtAmount": 2000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": null,
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
           "year": 2025,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         }
       ]
