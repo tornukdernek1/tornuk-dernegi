@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:56:05.285Z",
+  "updatedAt": "2026-10-17T16:56:21.239Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1365,15 +1365,15 @@
       "idHash": "9947a50b068444e787f26ce3e663b83678a1c8cba84adfe115f2a2e1013eb750",
       "tc": "",
       "displayName": "Hüseyin Kara",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
