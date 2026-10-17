@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:56:21.239Z",
+  "updatedAt": "2026-10-17T16:57:52.377Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1204,15 +1204,15 @@
       "idHash": "aab5ce2a0c3ff88b0ce30ab54769477f6d83b6805bc2a9266c1c60d6692fc7b8",
       "tc": "29053712784",
       "displayName": "Mustafa (Mehmet) Kara",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
