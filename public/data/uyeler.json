@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:56:02.430Z",
+  "updatedAt": "2026-10-17T16:56:05.285Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -3164,6 +3164,12 @@
       "lastPayment": "2026-01-01",
       "notes": "Güncel",
       "yearHistory": [
+        {
+          "year": 2027,
+          "status": "odendi",
+          "debtAmount": 0,
+          "note": "Peşin ödendi"
+        },
         {
           "year": 2026,
           "status": "odendi",
