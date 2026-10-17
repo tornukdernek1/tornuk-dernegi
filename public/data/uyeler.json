@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:54:25.480Z",
+  "updatedAt": "2026-10-17T16:54:46.229Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2906,15 +2906,15 @@
       "idHash": "0f16fec7cb71688acd5a721c0244fcbc44caabc8af4957ea698f231b86ef9e99",
       "tc": "",
       "displayName": "Hakkı Ten",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
