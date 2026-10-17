@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:50:40.729Z",
+  "updatedAt": "2026-10-17T16:50:59.212Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -4079,15 +4079,15 @@
       "idHash": "96da0546ca001646b8a855a8efc34a0943fb813b1a2bc8d12088abc2647b8121",
       "tc": "",
       "displayName": "Murat Yayla",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
