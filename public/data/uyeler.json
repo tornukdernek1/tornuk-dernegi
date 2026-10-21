@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-21T14:02:06.490Z",
+  "updatedAt": "2026-10-21T14:02:29.500Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2377,15 +2377,15 @@
       "idHash": "8e095155044e5528cac34792e9723bd87e3278f7069922579bbe803e6da42f01",
       "tc": "30250672870",
       "displayName": "Yahya Tanoğlu",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
