@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-17T16:57:52.377Z",
+  "updatedAt": "2026-10-21T14:02:06.490Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -3855,21 +3855,21 @@
       "idHash": "d2c5551efd4ec69e2aae6a270484e3b0f2690c1beaffa5ce660fcb60ec16af13",
       "tc": "",
       "displayName": "Osman Uzun",
-      "debtAmount": 2000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": null,
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
           "year": 2025,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         }
       ]
