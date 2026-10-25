@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-25T17:36:40.904Z",
+  "updatedAt": "2026-10-25T17:36:48.081Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1641,15 +1641,15 @@
       "idHash": "7846d35ec293600d2eb23ce3fe94251a11597680b15dc07ea1f0da729dc8a9fa",
       "tc": "",
       "displayName": "Murat Kaya",
-      "debtAmount": 0,
+      "debtAmount": 1000,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "Güncel",
+      "notes": "",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "odendi",
-          "debtAmount": 0,
+          "status": "borclu",
+          "debtAmount": 1000,
           "note": ""
         },
         {
