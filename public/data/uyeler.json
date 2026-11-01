@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-10-25T17:36:48.081Z",
+  "updatedAt": "2026-11-01T13:44:02.875Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2745,21 +2745,21 @@
       "idHash": "6316f21e1b9c27a967ee909ac6bf70b34f349038365538fa58eb92fa50c58d29",
       "tc": "",
       "displayName": "Zekeriya Temel",
-      "debtAmount": 2000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": null,
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
           "year": 2025,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         }
       ]
