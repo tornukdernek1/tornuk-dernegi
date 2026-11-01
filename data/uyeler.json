@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-11-01T19:17:35.187Z",
+  "updatedAt": "2026-11-01T19:17:49.800Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -3852,8 +3852,8 @@
       ]
     },
     {
-      "idHash": "d2c5551efd4ec69e2aae6a270484e3b0f2690c1beaffa5ce660fcb60ec16af13",
-      "tc": "",
+      "idHash": "e403ec331c142778be4ca37d11edaa489e07f7604a699d9d3aa81ed347cbb72a",
+      "tc": "28297737904",
       "displayName": "Osman Uzun",
       "debtAmount": 0,
       "debtMonths": [],
