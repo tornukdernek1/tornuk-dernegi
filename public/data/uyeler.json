@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-11-01T13:44:29.403Z",
+  "updatedAt": "2026-11-01T13:46:00.915Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -307,15 +307,15 @@
       "idHash": "314121f52dfdf205f1f31e049dce4588b408fb37d0f240a21ca828ff7d03ba17",
       "tc": "27082778450",
       "displayName": "Recep Civelek",
-      "debtAmount": 500,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 500,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": "Ödenen: 500 ₺"
         },
         {
