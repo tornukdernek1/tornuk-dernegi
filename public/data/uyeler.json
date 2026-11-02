@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-11-01T19:17:49.800Z",
+  "updatedAt": "2026-11-02T08:03:58.293Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1020,15 +1020,15 @@
       "idHash": "ea2dca0ee208cf083545c947503c1e394ad1df4a9496dc8f21d0fab1b8d1b271",
       "tc": "25258839226",
       "displayName": "Alim İleri",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
