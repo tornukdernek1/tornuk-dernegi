@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-11-18T14:10:22.002Z",
+  "updatedAt": "2026-11-18T14:10:37.165Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -1871,15 +1871,15 @@
       "idHash": "882d95d436991b251a2527cd5dac48bae12f9adcbf3fa5534ce991fdade30e35",
       "tc": "",
       "displayName": "Soner Kozlu",
-      "debtAmount": 1000,
+      "debtAmount": 0,
       "debtMonths": [],
       "lastPayment": "2026-01-01",
-      "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
+      "notes": "Güncel",
       "yearHistory": [
         {
           "year": 2026,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         },
         {
