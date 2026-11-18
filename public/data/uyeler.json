@@ -1,6 +1,6 @@
 {
   "associationName": "Törnük Derneği",
-  "updatedAt": "2026-11-18T14:10:37.165Z",
+  "updatedAt": "2026-11-18T14:11:10.073Z",
   "monthlyFee": 1000,
   "currency": "TRY",
   "members": [
@@ -2722,7 +2722,7 @@
       "idHash": "c82dca6ef9cc16e7d91e66d7b23024d900656e87130fccf22d61616169d595f8",
       "tc": "",
       "displayName": "Tunahan Temel",
-      "debtAmount": 2000,
+      "debtAmount": 1000,
       "debtMonths": [],
       "lastPayment": null,
       "notes": "TC girilmedi — aidat sorgusu için TC eklenmeli",
@@ -2735,8 +2735,8 @@
         },
         {
           "year": 2025,
-          "status": "borclu",
-          "debtAmount": 1000,
+          "status": "odendi",
+          "debtAmount": 0,
           "note": ""
         }
       ]
